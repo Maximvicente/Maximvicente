@@ -8,7 +8,7 @@ Currently looking for a **Data Analyst / Data Scientist internship starting in J
 
 > Étudiant en Master Mathématiques et Applications à Sorbonne Université, intéressé par la Data Science, le Machine Learning et l'analyse de données.
 
-## Featured projects
+## Featured Projects
 
 ### [SaaS Revenue, Churn & Product Usage Analysis](https://github.com/Maximvicente/saas-analysis)
 
@@ -48,48 +48,40 @@ Main topics:
 Machine learning project focused on air quality prediction and model comparison.
 
 Main topics:
-- Missing data handling
-- Chronological train/test split
+- Data cleaning and missing-value handling
+- Exploratory data analysis
+- Regression modelling
 - Cross-validation
-- Linear regression
-- Ridge, Lasso and Elastic Net
-- Kernel Ridge
+- Hyperparameter tuning
+- Comparison of statistical and machine-learning models
+
+Methods include:
+- Linear Regression
+- Ridge
+- Lasso
+- Elastic Net
+- Kernel methods
 - Random Forest
 - XGBoost
-- Neural networks
-- Model evaluation and comparison
+- Neural Networks
 
-**Tools:** Python, pandas, NumPy, scikit-learn, XGBoost, matplotlib
+**Tools:** Python, pandas, NumPy, scikit-learn, matplotlib
 
-## Collaborative projects
+## Collaborative Projects
 
-### ProfWeb Activities
+### [ABMultiespeces](https://github.com/B-Gaudeul/ABMultiespeces)
 
-Collaborative software project in which I worked as a **co-developer and co-manager**.
+Project I contributed to during my internship at the **Institut de Mathématique d'Orsay**.
 
-I contributed to:
-- feature development
-- project organization
-- technical implementation
-- coordination of the project
-
-This project allowed me to combine technical development with team and project management responsibilities.
+The internship focused on numerical methods and scientific computing, including the implementation and analysis of numerical schemes.
 
 ---
 
-### ABMultiespeces
+### [ProfWeb Activities](https://github.com/AlexAnsart/profweb-activities)
 
-Numerical modelling project carried out during my internship at the **Institut de Mathématique d'Orsay**.
+Collaborative project in which I worked as a **co-developer and co-manager**.
 
-The project focused on scientific computing and numerical methods.
-
-I contributed to:
-- implementation of numerical schemes
-- testing and validation
-- numerical analysis
-- interpretation of simulation results
-
-This work was carried out in a collaborative research environment.
+I contributed to both the development of the project and its organization and management.
 
 ## Skills
 
@@ -110,13 +102,13 @@ This work was carried out in a collaborative research environment.
 - Random Forest
 - XGBoost
 - Kernel methods
-- Neural networks
+- Neural Networks
 - Cross-validation and hyperparameter tuning
 - PCA / SVD
 - K-means
 - Hierarchical clustering
 
-### Other tools
+### Other
 - C / C++
 - Julia
 - Git / GitHub
@@ -126,9 +118,9 @@ This work was carried out in a collaborative research environment.
 
 - Data Science
 - Machine Learning
-- Statistical modelling
+- Statistical Modelling
 - Business Analytics
-- Numerical methods
+- Numerical Methods
 
 ## Languages
 
@@ -140,5 +132,4 @@ This work was carried out in a collaborative research environment.
 ## Contact
 
 - GitHub: https://github.com/Maximvicente
-- LinkedIn: add your LinkedIn URL here
 - Email: maxim.vicente@gmail.com
